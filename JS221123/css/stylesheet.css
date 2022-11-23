@@ -1,0 +1,15 @@
+div{
+    width: 80%;
+    min-width: 500px;
+    border: 2px solid yellow;
+    margin: auto;
+}
+h1{
+    text-align: center;
+    color: yellow;
+    font-weight: normal;
+}
+img{
+    margin: 15px;
+    width: 100%;
+}
